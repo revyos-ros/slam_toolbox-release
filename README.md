@@ -1,3 +1,26 @@
+## slam_toolbox (jazzy) - 2.8.3-1
+
+The packages in the `slam_toolbox` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy slam_toolbox --override-release-repository-push-url git@github.com:revyos-ros/slam_toolbox-release.git` on `Fri, 13 Jun 2025 03:57:25 -0000`
+
+The `slam_toolbox` package was released.
+
+Version of package(s) in repository `slam_toolbox`:
+
+- upstream repository: https://github.com/SteveMacenski/slam_toolbox.git
+- release repository: https://github.com/revyos-ros/slam_toolbox-release.git
+- rosdistro version: `2.8.3-1`
+- old version: `2.8.2-1`
+- new version: `2.8.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## slam_toolbox (jazzy) - 2.8.2-1
 
 The packages in the `slam_toolbox` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy slam_toolbox --override-release-repository-push-url git@github.com:revyos-ros/slam_toolbox-release.git` on `Thu, 19 Dec 2024 07:38:32 -0000`
